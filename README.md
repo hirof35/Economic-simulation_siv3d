@@ -56,3 +56,5 @@ Main.cpp にソースを配置し、ビルド・実行してください。
 MIT License
 
 「経済は構造である。構造を理解する者が、勝利を掴む。」
+
+<img width="996" height="787" alt="スクリーンショット 2026-05-09 195856" src="https://github.com/user-attachments/assets/4cf426d7-7a3f-45ac-9161-0e2ba8c6eb5b" />
